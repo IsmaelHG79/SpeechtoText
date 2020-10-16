@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sImQNoSwx9HgmMfX5yr1/Zrk2eoiUtbJUwUcrCriCzngoa30c4HF5PRe63L1vSziWuMrfvOuifWdeOqkuX91EA==",
+  "success": true,
+  "projectFilePath": "/home/codespace/workspace/SpeechtoText/SpeechtoText.csproj",
+  "expectedPackageFiles": [
+    "/var/nuget/microsoft.cognitiveservices.speech/1.13.0/microsoft.cognitiveservices.speech.1.13.0.nupkg.sha512"
+  ],
+  "logs": []
+}
